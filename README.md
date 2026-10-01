@@ -6,7 +6,7 @@ This public repository holds the download page and published APKs. Application s
 
 - [Download the latest APK](https://github.com/erickolb/Lumiere/releases/latest/download/Lumiere.apk)
 - [Installation page](https://erickolb.github.io/Lumiere/)
-- Android application ID: `lumiere.chateaulore.net`
+- Android application ID: `net.chateaulore.lumiere`
 - Requires Android 8.0 or newer.
 
 Obtainium source URL: `https://github.com/erickolb/Lumiere`.
